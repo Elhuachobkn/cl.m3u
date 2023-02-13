@@ -15,3 +15,10 @@ https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red
 https://marine2.miplay.cl/lared/playlist.m3u8
+
+#EXTINF:-1 tvg-id="979" tvg-name="13 Entretencion" tvg-logo="https://i2.paste.pics/a59418e1a9cb4068b83345be503f722c.png", 13 Entretencion
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1033" tvg-name="13 Prime" tvg-logo="https://i2.paste.pics/544548398fcd92bf2db73e9d0fcddf5f.png", 13 Prime
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1032" tvg-name="13 Teleseries" tvg-logo="https://i2.paste.pics/863aea4fb1445b58f89afc7c692ed509.png", 13 Teleseries
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
