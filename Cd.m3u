@@ -12,3 +12,6 @@ https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?Playlist
 #EXTINF:-1 tvg-id="79045" tvg-name="Bio Bio TV" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png", Bio Bio TV
 
 https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://lh3.googleusercontent.com/-w3BIhImK3PM/YKLYqeFgJlI/AAAAAAABCXk/cJQItXH6BeII2A19RmryccG1o54twOSvACK8BGAsYHg/s512/2021-05-17.jpg", La Red
+https://marine2.miplay.cl/lared/playlist.m3u8
