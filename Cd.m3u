@@ -66,9 +66,9 @@ http://clubtv.link/1002feb/key6634/lista1.php?c=a003&f=.m3u8
 http://clubtv.link/1002feb/key6634/lista1.php?c=a064&f=.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso",Canal del Congreso
 http://clubtv.link/1002feb/key6634/lista1.php?c=a009&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM" tvg-id="Capital",Capital
+#EXTINF:-1  tvg-id="Capital",Capital
 http://clubtv.link/1002feb/key6634/lista1.php?c=a00h&f=.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Caracol
+#EXTINF:-1 ,Caracol
 http://clubtv.link/1002feb/key6634/lista1.php?c=a0rs&f=.m3u8
 #EXTINF:-1  tvg-id="CARACOLHD",Caracol HD
 http://clubtv.link/1002feb/key6634/lista1.php?c=a0r7&f=.m3u8
