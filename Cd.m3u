@@ -48,7 +48,7 @@ http://clubtv.link/1002feb/key6634/lista1.php?c=a0rq&f=.m3u8
 http://clubtv.link/1002feb/key6634/lista1.php?c=a045&f=.m3u8
 #EXTINF:-1 tvg-id="CNNEspanol",CNN Espanol
 http://clubtv.link/1002feb/key6634/lista1.php?c=a052&f=.m3u8
-#EXTINF:-1,Canal  Capital
+#EXTINF:-1 tvg-id="Capital",Canal  Capital
 http://clubtv.link/1002feb/key6634/lista1.php?c=a0rw&f=.m3u8
 #EXTINF:-1 tvg-id="CARACOLSD",Canal Caracol
 http://clubtv.link/1002feb/key6634/lista1.php?c=a005&f=.m3u8
@@ -68,7 +68,7 @@ http://clubtv.link/1002feb/key6634/lista1.php?c=a064&f=.m3u8
 http://clubtv.link/1002feb/key6634/lista1.php?c=a009&f=.m3u8
 #EXTINF:-1  tvg-id="Capital",Capital
 http://clubtv.link/1002feb/key6634/lista1.php?c=a00h&f=.m3u8
-#EXTINF:-1 ,Caracol
+#EXTINF:-1 tvg-id="Caracol" ,Caracol
 http://clubtv.link/1002feb/key6634/lista1.php?c=a0rs&f=.m3u8
 #EXTINF:-1  tvg-id="CARACOLHD",Caracol HD
 http://clubtv.link/1002feb/key6634/lista1.php?c=a0r7&f=.m3u8
