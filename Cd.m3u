@@ -33,3 +33,11 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 https://marine2.miplay.cl/megaplus/mono.m3u8
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN | CL
 https://panel.miplay.cl:8081/tvn/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV Noticias" tvg-logo="https://i2.paste.pics/5bf0db1521a041595f387a893ab6512b.png", CHV Noticias | CL
+https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png", T13 | CL
+https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://lh3.googleusercontent.com/-42YG0jZhyGg/XbC0Ua8FlLI/AAAAAAAArlw/S2qhcWOdFuskqCondIatbmxSfLMvgj9owCK8BGAsYHg/s0/2019-10-23.png", Meganoticias | CL
+http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
+#EXTINF:-1 tvg-id="352" tvg-name="Concepcion TV" tvg-logo="https://i2.paste.pics/d3cfb9b5755fef336d27e1b80a9d2921.png", Concepcion TV | CL
+http://live.mundogo.cl/mundo/concepciontv/index.m3u8?PlaylistM3UCL
